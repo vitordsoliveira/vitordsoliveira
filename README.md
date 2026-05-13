@@ -1,11 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4FC3F7&ize=35&center=true&vCenter=true&width=1000&lines=ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
-<a href="https://github.com/vitordsoliveira">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vitordsoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsoliveira&repo=blueBird.web&layout=compact&theme=radical"/>
-</a>
-  
- ## 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
